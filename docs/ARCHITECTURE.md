@@ -93,3 +93,4 @@ flowchart TD
 | **Rate Limiting** | Sliding-window token bucket (default 240 req/min per IP). |
 | **Headers** | Helmet HTTP security headers. |
 | **Observability** | Prometheus metrics at `/api/metrics`, Kubernetes liveness/readiness probes at `/api/health/live` and `/api/health/ready`. |
+

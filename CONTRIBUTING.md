@@ -38,3 +38,4 @@ All contributions must be complete, tested, and production-ready. Never commit s
 - **Database**: SQLite3 via native `node:sqlite` with WAL mode.
 - **Testing**: Native Node test runner (`node --test`).
 - **Commits**: Follow conventional commits (`feat:`, `fix:`, `docs:`, `test:`, `chore:`).
+

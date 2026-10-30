@@ -15,3 +15,4 @@ All notable changes to **AdCopyCraft AI** are documented in this file.
 - **Enterprise RBAC**: Roles for `copywriter`, `campaign_manager`, and `admin` with live persona switcher.
 - **Observability**: Prometheus metrics (`/api/metrics`) and Kubernetes liveness/readiness probes.
 - **Comprehensive Automated Test Suite**: 35 tests covering all engines and API endpoints with 100% pass rate.
+

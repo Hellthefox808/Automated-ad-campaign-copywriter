@@ -25,3 +25,4 @@
 ## Reporting a Vulnerability
 
 Please report security issues responsibly to `security@adcraft.ai`.
+

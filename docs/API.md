@@ -158,3 +158,4 @@ Exports campaigns in bulk format:
 - `format=csv_linkedin`: CSV for LinkedIn Campaign Manager.
 - `format=markdown`: Formatted Markdown creative brief.
 - `format=json`: Complete schema-validated JSON manifest.
+

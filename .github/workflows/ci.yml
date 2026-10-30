@@ -32,3 +32,4 @@ jobs:
 
       - name: Build Production Web Bundle
         run: npm run build
+
