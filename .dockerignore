@@ -1,0 +1,12 @@
+node_modules
+.git
+.github
+*.sqlite*
+data/
+.env
+.env.local
+.vscode
+.deep-copilot
+.kilocode
+coverage/
+*.log
